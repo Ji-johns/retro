@@ -1,0 +1,18 @@
+# Compiled binaries
+retro
+*.o
+*.obj
+*.out
+*.exe
+
+# Editor backup/swap files
+*~
+*.swp
+\#*\#
+
+# Build artifacts
+build/
+bin/
+
+# NixOS
+result
