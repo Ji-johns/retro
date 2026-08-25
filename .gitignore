@@ -9,6 +9,7 @@ retro
 *~
 *.swp
 \#*\#
+.kdev4/
 
 # Build artifacts
 build/
